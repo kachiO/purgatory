@@ -1,3 +1,3 @@
 ## purgatory
 
-collection of trials and tribulations in pursuit of deep learning nirvana
+collection of deep learning trials and tribulations
